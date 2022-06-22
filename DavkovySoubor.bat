@@ -1,0 +1,9 @@
+robot .\TS_QR_010\TS_010.robot
+robot .\TS_QR_009\TS_009.robot
+robot .\TS_QR_008\TS_008.robot
+robot .\TS_QR_007\TS_007.robot
+robot .\TS_QR_006\TS_006.robot
+robot .\TS_QR_004\TS_004.robot
+robot .\TS_QR_003\TS_003.robot
+robot .\TS_QR_002\TS_002.robot
+robot .\TS_QR_001\TS_001.robot
